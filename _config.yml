@@ -59,6 +59,11 @@ search_full_content: true # can have performance implications for large sites
 # category_archive_path: "/categories/#"
 # tag_archive_path: "/tags/#"
 
+#includes
+include: [
+  'blank'
+]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
